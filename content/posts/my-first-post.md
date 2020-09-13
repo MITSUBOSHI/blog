@@ -1,5 +1,8 @@
 ---
 title: "My First Post"
+categories: ["ja"]
+tags: []
+slug: "my-first-post"
 date: 2020-09-13T22:54:51+09:00
 draft: true
 ---
