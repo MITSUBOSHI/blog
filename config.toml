@@ -4,5 +4,8 @@ title = "My New Hugo Site"
 theme = "simple-style"
 
 [taxonomies]
-tag = "tags"
-category = "categories"
+  tag = "tags"
+  category = "categories"
+
+[permalinks]
+  "/" = "/:year/:month/:day/:slug/"
