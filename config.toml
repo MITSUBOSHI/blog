@@ -7,6 +7,8 @@ languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
+hasCJKLanguage = true
+summaryLength = 100
 
 [taxonomies]
   tag = "tags"
