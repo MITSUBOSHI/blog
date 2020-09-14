@@ -3,8 +3,8 @@ title: "Isucon10予選 振り返り"
 categories: ["ja"]
 tags: ["tech", "isucon"]
 slug: "isucon10-qualify"
-date: 2020-09-14T10:43:30+09:00
-draft: true
+date: 2020-09-14T12:32:30+09:00
+draft: false
 ---
 
 isucon10予選、おつかれさまでした。  
