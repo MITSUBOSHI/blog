@@ -1,7 +1,7 @@
 baseURL = "https://mitsuboshi.github.io/blog/"
 languageCode = "en-us"
 title = "mitsubosh's blog"
-theme = "simple-style"
+theme = "simple-blog"
 
 [taxonomies]
   tag = "tags"

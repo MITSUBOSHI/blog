@@ -1,3 +1,6 @@
 [submodule "themes/simple-style"]
 	path = themes/simple-style
 	url = https://github.com/yanlinlin82/simple-style.git
+[submodule "themes/simple-blog"]
+	path = themes/simple-blog
+	url = https://github.com/10mohi6/hugo-theme-simple-blog.git
