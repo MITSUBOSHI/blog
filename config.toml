@@ -1,7 +1,12 @@
-baseURL = "https://mitsuboshi.github.io/blog/"
-languageCode = "en-us"
-title = "mitsubosh's blog"
 theme = "simple-blog"
+baseURL = "https://mitsuboshi.github.io/blog/"
+title = "mitsubosh's blog"
+copyright = "© 2020 MITSUBOSHI Yuya"
+paginate = 3
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
 
 [taxonomies]
   tag = "tags"
