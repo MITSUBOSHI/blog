@@ -4,7 +4,7 @@ categories: ["ja"]
 tags: ["looking-back"]
 slug: "looking-back-2020"
 date: 2020-12-31T16:14:30+09:00
-draft: true
+draft: false
 ---
 
 
