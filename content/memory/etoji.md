@@ -72,6 +72,8 @@ $ wasi-vfs pack ruby.wasm --mapdir /usr::./head-wasm32-unknown-wasi-full-js/usr 
 「見た目は後で整えればいいだろう」「一旦、子どもに見せるか」と思って、iPhoneで動作しないことに気づき悲しくなりました。  
 macOS上のChrome/Safariでは問題なく動作はしていて、iOS * WebAssemblyで雑に調べるとメモリ関連で苦しんでいる記事をいくつか目にしたところで時間切れになったので、深追いしていません。  
 
+いつか仕事でもバックエンドとフロントエンドを共通ロジック(同一ソース)でバリデーションをさせるなどの用途でWebAssemblyを使うなどしてみたい気持ちです。  
+
 ### Refs
 - https://zenn.dev/koduki/articles/3619f53e8c0575
 - https://github.com/kateinoigakukun/wasi-vfs/wiki/Getting-Started-with-CRuby
