@@ -12,7 +12,8 @@ draft: false
 
 https://mitsuboshi.github.io/eto/  
 
-※iOS/Android端末のブラウザでは上手く動作しないです  
+~~※iOS/Android端末のブラウザでは上手く動作しないです~~  
+※2024-01に動くようになりました  
 
 ## gem "etoji"
 
@@ -79,4 +80,6 @@ macOS上のChrome/Safariでは問題なく動作はしていて、iOS * WebAssem
 - https://github.com/kateinoigakukun/wasi-vfs/wiki/Getting-Started-with-CRuby
 - https://github.com/ruby-syntax-tree/ruby-syntax-tree.github.io
 
+## 追記(2024-01-06)
 
+iOS/Androidで動作しなかった原因はwasmファイルのfetchを無駄に繰り返し行っていた点だった。  
