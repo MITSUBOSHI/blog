@@ -16,3 +16,9 @@ summaryLength = 100
 
 [permalinks]
   "/" = "/:year/:month/:day/:slug/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      hardWraps = true
