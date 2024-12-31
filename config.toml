@@ -3,6 +3,7 @@ baseURL = "https://mitsuboshi.github.io/blog/"
 title = "mitsubosh's blog"
 copyright = "© 2020 MITSUBOSHI Yuya"
 languageCode = "ja"
+enableRobotsTXT = true
 
 [markup]
   [markup.goldmark]
