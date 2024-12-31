@@ -32,3 +32,9 @@ languageCode = "ja"
 [services]
   [services.googleAnalytics]
     ID = "G-QEYQM5D9KJ"
+
+[sitemap]
+  changeFreq = 'monthly'
+  disable = false
+  filename = 'sitemap.xml'
+  priority = 0.7
