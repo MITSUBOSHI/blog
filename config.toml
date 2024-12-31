@@ -26,6 +26,14 @@ languageCode = "ja"
   userStatusEmoji = "⚾️"
   enableSearch = true
 
+[outputs]
+  home = ["html", "json"]
+
+[outputFormats.json]
+  mediaType = "application/json"
+  baseName = "index"
+  isPlainText = false
+
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
 
