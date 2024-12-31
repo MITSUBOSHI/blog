@@ -7,24 +7,25 @@ slug: "homebuilt-pc-2023"
 draft: false
 ---
 
-しばらく前に私用PCが壊れてしまい、妻のPCをスポットで借りて凌いでいたが限界を感じた。  
-唯一まとまった時間が取れる年末のこのタイミングで思い切って自作PCを組み立てた。  
+しばらく前に私用PCが壊れてしまい、妻のPCをスポットで借りて凌いでいたが限界を感じた。
+唯一まとまった時間が取れる年末のこのタイミングで思い切って自作PCを組み立てた。
 
+<!--more-->
 ## 構成
 
 | 種別 | 製品名 | 価格 |
 | -- | -- | -- |
 | CPU | AMD Ryzen 7 7700X Box | 46,480円 |
-| CPUクーラ | PCCOOLER LGA1700 K4-WH | 3,009円 | 
+| CPUクーラ | PCCOOLER LGA1700 K4-WH | 3,009円 |
 | PCケース | MSI MAG FORGE 110R | 5,444円 |
-| マザーボード | ASUS TUF GAMING B650-PLUS WIFI | 24,980円 | 
+| マザーボード | ASUS TUF GAMING B650-PLUS WIFI | 24,980円 |
 | メモリ | ADATA AD5U560016G-DT-EC DDR5 16GBx2枚 | 15,918円 |
 | ストレージ | SSD 2TB M.2 NVMe G-Storategy | 14,580円 |
 | 電源 | COUGAR 80PLUS BRONZE CGR BA-750 | 7,600円 |
 
-趣味で開発をする暇は育児でほぼ無いが、開発に困らない程度のスペックで構成を考えた。  
-合計12万円未満だが、CPUグリスやUSBメモリなど細々したものを買ったらさらに1-2万円かかった。  
-グラフィックボードに関してはゲーミング用途では使わないため、CPU内蔵GPUで乗り切る(困ったら買い足す)。  
+趣味で開発をする暇は育児でほぼ無いが、開発に困らない程度のスペックで構成を考えた。
+合計12万円未満だが、CPUグリスやUSBメモリなど細々したものを買ったらさらに1-2万円かかった。
+グラフィックボードに関してはゲーミング用途では使わないため、CPU内蔵GPUで乗り切る(困ったら買い足す)。
 
 ### 詰まった(焦った)こと
 - PCケースに付属品(ネジ等)が無かった
@@ -64,7 +65,7 @@ draft: false
 ### 参考
 - https://wiki.archlinux.jp/index.php/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%82%AC%E3%82%A4%E3%83%89
 - https://qiita.com/k0kubun/items/e60fae90c688ac960ab7
-- https://zenn.dev/ytjvdcm/articles/0efb9112468de3 
+- https://zenn.dev/ytjvdcm/articles/0efb9112468de3
 
 
 ## 最後に

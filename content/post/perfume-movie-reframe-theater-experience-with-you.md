@@ -7,8 +7,8 @@ slug: "perfume-movie-reframe-theater-experience-with-you"
 draft: true
 ---
 
-映画『Reframe THEATER EXPERIENCE with you』を観てきました。  
-2020年にメジャーデビュー15周年・結成20周年を迎えたPerfumeのこれまでの歴史を振り返ることが出来る作品です。  
+映画『Reframe THEATER EXPERIENCE with you』を観てきました。
+2020年にメジャーデビュー15周年・結成20周年を迎えたPerfumeのこれまでの歴史を振り返ることが出来る作品です。
 
 
 『Challenger』の歌詞がすごく好きです。

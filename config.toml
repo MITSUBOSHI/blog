@@ -1,4 +1,4 @@
-theme = "simple-blog"
+theme = "github-style"
 baseURL = "https://mitsuboshi.github.io/blog/"
 title = "mitsubosh's blog"
 copyright = "© 2020 MITSUBOSHI Yuya"

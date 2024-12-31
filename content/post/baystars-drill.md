@@ -11,6 +11,7 @@ draft: false
 
 https://mitsuboshi.github.io/baystars-drill/
 
+<!--more-->
 ※勉強用でかなり雑に作っているので、出来はご容赦ください。
 
 現時点では次の２つの機能のみを実装しています。
