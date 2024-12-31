@@ -2,23 +2,37 @@ theme = "github-style"
 baseURL = "https://mitsuboshi.github.io/blog/"
 title = "mitsubosh's blog"
 copyright = "© 2020 MITSUBOSHI Yuya"
-paginate = 4
 languageCode = "ja"
-DefaultContentLanguage = "ja"
-enableInlineShortcodes = true
-footnoteReturnLinkContents = "^"
-hasCJKLanguage = true
-summaryLength = 100
-
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-
-[permalinks]
-  "/" = "/:year/:month/:day/:slug/"
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
       hardWraps = true
+
+[params]
+  author = "MITSUBOSHI/bosshi"
+  description = "MITSUBOSHIのブログです。主に技術や子育てに関する記事を書いています。"
+  github = "MITSUBOSHI"
+  twitter = "Y_MITSUBOSHI"
+  # url = ""
+  keywords = "blog, software engineer, child"
+  rss = true
+  lastmod = true
+  favicon = "/blog/images/icon.jpg"
+  avatar = "/blog/images/icon.jpg"
+  headerIcon = "/blog/images/icon.jpg"
+  location = "Kamakura"
+  userStatusEmoji = "⚾️"
+  enableSearch = true
+
+  [[params.links]]
+    title = "Link"
+    href = "https://github.com/meik2333"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
+
+[services]
+  [services.googleAnalytics]
+    ID = "G-SXPHRNPR2H"
