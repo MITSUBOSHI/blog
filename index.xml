@@ -1,29 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>mitsubosh's blog</title><link>https://mitsuboshi.github.io/blog/</link><description>Recent content on mitsubosh's blog</description><generator>Hugo</generator><language>ja</language><copyright>© 2020 MITSUBOSHI Yuya</copyright><lastBuildDate>Tue, 31 Dec 2024 17:52:05 +0000</lastBuildDate><atom:link href="https://mitsuboshi.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>2024年の振り返り</title><link>https://mitsuboshi.github.io/blog/post/looking-back-2024/</link><pubDate>Tue, 31 Dec 2024 00:00:30 +0900</pubDate><guid>https://mitsuboshi.github.io/blog/post/looking-back-2024/</guid><description>&lt;p>横浜DeNAベイスターズ、日本一おめでとうございます！&lt;br>
-最高の出だしから2024年を振り返ります。&lt;/p>
-&lt;h2 id="生活">生活&lt;/h2>
-&lt;p>第一子(娘)が4歳、第二子(息子)が2歳になりました。&lt;/p></description></item><item><title>ベイスターズドリルを作った</title><link>https://mitsuboshi.github.io/blog/post/baystars-drill/</link><pubDate>Thu, 31 Oct 2024 00:00:00 +0900</pubDate><guid>https://mitsuboshi.github.io/blog/post/baystars-drill/</guid><description>&lt;p>&lt;a href="https://nextjs.org/">Next.js&lt;/a>の勉強を兼ねて、趣味を絡めて「ベイスターズドリル」なるtoy appを作りGitHub Pagesで公開しました。UI部分は&lt;a href="https://www.chakra-ui.com/">Chakra UI&lt;/a>を使っています。&lt;/p>
-&lt;p>&lt;a href="https://mitsuboshi.github.io/baystars-drill/">https://mitsuboshi.github.io/baystars-drill/&lt;/a>&lt;/p></description></item><item><title>クリスマスの12日間</title><link>https://mitsuboshi.github.io/blog/post/12days-of-xmas/</link><pubDate>Sat, 25 May 2024 01:00:00 +0900</pubDate><guid>https://mitsuboshi.github.io/blog/post/12days-of-xmas/</guid><description>&lt;p>GW期間中に暇を見つけてGitHub Pagesに新たにtoy siteを公開しました。&lt;br>
-昨年のクリスマスシーズンに子どもたちと一緒に『&lt;a href="https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%81%AE12%E6%97%A5%E9%96%93">クリスマスの12日間&lt;/a>』の歌や絵本を楽しみました。&lt;br>
-ただ私は歌詞を覚えるのがすこぶる苦手であり、次のシーズンまで覚えてられる気がしないので簡単なクイズ要素を含むものにしました。&lt;br>
-　　&lt;br>
-&lt;a href="https://mitsuboshi.github.io/12days-of-xmas/">https://mitsuboshi.github.io/12days-of-xmas/&lt;/a>&lt;/p></description></item><item><title>2023年の振り返り</title><link>https://mitsuboshi.github.io/blog/post/looking-back-2023/</link><pubDate>Sun, 31 Dec 2023 00:00:30 +0900</pubDate><guid>https://mitsuboshi.github.io/blog/post/looking-back-2023/</guid><description>&lt;h2 id="生活">生活&lt;/h2>
-&lt;p>第一子が3歳、第二子が1歳になった。&lt;/p>
-&lt;p>第一子は大人を驚かせるほどの記憶力や観察力がある。&lt;br>
-トイ・ストーリーのキャラクターの名前もこの子に教わったものだ。&lt;br>
-しかし、まだまだ手がかかる。&lt;br>
-トイトレが始まり家でもトイレで用を足すようになったこともあり、 出かける前や就寝前に「行く」「行かない」の押し問答を毎回している。&lt;/p></description></item><item><title>自作PC: 2023</title><link>https://mitsuboshi.github.io/blog/post/homebuilt-pc-2023/</link><pubDate>Sat, 30 Dec 2023 02:30:00 +0900</pubDate><guid>https://mitsuboshi.github.io/blog/post/homebuilt-pc-2023/</guid><description>&lt;p>しばらく前に私用PCが壊れてしまい、妻のPCをスポットで借りて凌いでいたが限界を感じた。&lt;br>
-唯一まとまった時間が取れる年末のこのタイミングで思い切って自作PCを組み立てた。&lt;/p></description></item><item><title>RubyのWebAssemblyを試してみた</title><link>https://mitsuboshi.github.io/blog/post/etoji/</link><pubDate>Tue, 10 Jan 2023 22:30:17 +0900</pubDate><guid>https://mitsuboshi.github.io/blog/post/etoji/</guid><description>&lt;p>年始に育児の合間を縫ってRuby3.2で少しだけ遊んでみました。&lt;br>
-上の子が絵本『&lt;a href="https://www.amazon.co.jp/dp/4774604097">十二支のはじまり&lt;/a>』を最近読んで、干支を認識し始めて来たので、それに関連したものを簡易的に作りました。&lt;/p>
-&lt;p>&lt;a href="https://mitsuboshi.github.io/eto/">https://mitsuboshi.github.io/eto/&lt;/a>&lt;/p></description></item><item><title>2022年の振り返り</title><link>https://mitsuboshi.github.io/blog/post/looking-back-2022/</link><pubDate>Sat, 31 Dec 2022 00:20:30 +0900</pubDate><guid>https://mitsuboshi.github.io/blog/post/looking-back-2022/</guid><description>&lt;h2 id="生活">生活&lt;/h2>
-&lt;p>今年の9月に第二子が産まれ、家庭内がより賑やかになりました。&lt;br>
-第一子と第二子が同時に泣くなど日々同時多発的にトラブルが発生します。&lt;br>
-まず何から対処すべきかの初動判断は非常に難しく、日々親力を試されています。&lt;/p>
-&lt;p>妻か僕のどちらかが一時的にでも欠けたら家庭内が回らなくなるほど逼迫した生活で、我が家は戦場と化しています。&lt;br>
-今年は家族全員(第二子産まれる前)が新型コロナウイルスに罹ったり、自分がぎっくり腰になったりと色んなアクシデントを経て、なんとか新年を迎えられそうなことにほっと胸を撫で下ろしています。&lt;/p></description></item><item><title>2020年の振り返り</title><link>https://mitsuboshi.github.io/blog/post/looking-back-2020/</link><pubDate>Thu, 31 Dec 2020 16:14:30 +0900</pubDate><guid>https://mitsuboshi.github.io/blog/post/looking-back-2020/</guid><description>&lt;h2 id="生活">生活&lt;/h2>
-&lt;p>第1子が誕生しました。&lt;/p>
-&lt;p>3月末に妻の妊娠が発覚してから11月の出産(予定日よりも2週間早い)まで気の抜けない日々が続きました。&lt;br>
-子が妻のお腹の中にいる間は「問題がない」ことが目に見えてわからないというのが不安症な人間には辛かったです。&lt;br>
-まあ産後は産後で子の月齢が1ヶ月を迎えるまでは慣れず、安心できずでした。&lt;/p></description></item><item><title>Isucon10予選 振り返り</title><link>https://mitsuboshi.github.io/blog/post/isucon10-qualify/</link><pubDate>Mon, 14 Sep 2020 12:32:30 +0900</pubDate><guid>https://mitsuboshi.github.io/blog/post/isucon10-qualify/</guid><description>&lt;p>isucon10予選、おつかれさまでした。&lt;br>
-チーム名はコーヒーフロート。ひとりぼっちの初参加です。&lt;br>
-最高得点は718点で、&lt;a href="http://isucon.net/archives/55008744.html">最終得点は662点&lt;/a>。&lt;/p></description></item><item><title>My First Post</title><link>https://mitsuboshi.github.io/blog/post/my-first-post/</link><pubDate>Sun, 13 Sep 2020 22:54:51 +0900</pubDate><guid>https://mitsuboshi.github.io/blog/post/my-first-post/</guid><description>&lt;p>雑にブログを始めてみることにしました。&lt;br>
-技術書典9で『&lt;a href="https://techbookfest.org/product/5095004003368960">Hugo で始める静的サイト構築入門&lt;del>静的サイトジェネレーターで作る自作サイト&lt;/del>&lt;/a>』を買ったのがきっかけです。&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>mitsubosh's blog</title><link>https://mitsuboshi.github.io/blog/</link><description>Recent content on mitsubosh's blog</description><generator>Hugo</generator><language>ja</language><copyright>© 2020 MITSUBOSHI Yuya</copyright><lastBuildDate>Sat, 03 Jan 2026 10:34:12 +0000</lastBuildDate><atom:link href="https://mitsuboshi.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>2025年の振り返り</title><link>https://mitsuboshi.github.io/blog/post/looking-back-2025/</link><pubDate>Sat, 03 Jan 2026 18:45:50 +0900</pubDate><guid>https://mitsuboshi.github.io/blog/post/looking-back-2025/</guid><description>&lt;p&gt;2025年は人生の中で最も苦悩の多い1年だった。&lt;/p&gt;
+&lt;p&gt;家庭と仕事の様々な問題が重なりあった結果、体調を大きく崩した。負の状態から抜け出すこともなくひと月も経てば、自然と言語性が消失していった。言葉をうまく操れないことがデフォルト・ディシジョン・ファティーグ状態に繋がりあらゆる決定行為が重くなった。悪習慣/悪状態を軽視したツケが大きく回復するまで時間がかかった。&lt;/p&gt;</description></item><item><title>2024年の振り返り</title><link>https://mitsuboshi.github.io/blog/post/looking-back-2024/</link><pubDate>Tue, 31 Dec 2024 00:00:30 +0900</pubDate><guid>https://mitsuboshi.github.io/blog/post/looking-back-2024/</guid><description>&lt;p&gt;横浜DeNAベイスターズ、日本一おめでとうございます！&lt;br&gt;
+最高の出だしから2024年を振り返ります。&lt;/p&gt;
+&lt;h2 id="生活"&gt;生活&lt;/h2&gt;
+&lt;p&gt;第一子(娘)が4歳、第二子(息子)が2歳になりました。&lt;/p&gt;</description></item><item><title>ベイスターズドリルを作った</title><link>https://mitsuboshi.github.io/blog/post/baystars-drill/</link><pubDate>Thu, 31 Oct 2024 00:00:00 +0900</pubDate><guid>https://mitsuboshi.github.io/blog/post/baystars-drill/</guid><description>&lt;p&gt;&lt;a href="https://nextjs.org/"&gt;Next.js&lt;/a&gt;の勉強を兼ねて、趣味を絡めて「ベイスターズドリル」なるtoy appを作りGitHub Pagesで公開しました。UI部分は&lt;a href="https://www.chakra-ui.com/"&gt;Chakra UI&lt;/a&gt;を使っています。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mitsuboshi.github.io/baystars-drill/"&gt;https://mitsuboshi.github.io/baystars-drill/&lt;/a&gt;&lt;/p&gt;</description></item><item><title>クリスマスの12日間</title><link>https://mitsuboshi.github.io/blog/post/12days-of-xmas/</link><pubDate>Sat, 25 May 2024 01:00:00 +0900</pubDate><guid>https://mitsuboshi.github.io/blog/post/12days-of-xmas/</guid><description>&lt;p&gt;GW期間中に暇を見つけてGitHub Pagesに新たにtoy siteを公開しました。&lt;br&gt;
+昨年のクリスマスシーズンに子どもたちと一緒に『&lt;a href="https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%81%AE12%E6%97%A5%E9%96%93"&gt;クリスマスの12日間&lt;/a&gt;』の歌や絵本を楽しみました。&lt;br&gt;
+ただ私は歌詞を覚えるのがすこぶる苦手であり、次のシーズンまで覚えてられる気がしないので簡単なクイズ要素を含むものにしました。&lt;br&gt;
+　　&lt;br&gt;
+&lt;a href="https://mitsuboshi.github.io/12days-of-xmas/"&gt;https://mitsuboshi.github.io/12days-of-xmas/&lt;/a&gt;&lt;/p&gt;</description></item><item><title>2023年の振り返り</title><link>https://mitsuboshi.github.io/blog/post/looking-back-2023/</link><pubDate>Sun, 31 Dec 2023 00:00:30 +0900</pubDate><guid>https://mitsuboshi.github.io/blog/post/looking-back-2023/</guid><description>&lt;h2 id="生活"&gt;生活&lt;/h2&gt;
+&lt;p&gt;第一子が3歳、第二子が1歳になった。&lt;/p&gt;
+&lt;p&gt;第一子は大人を驚かせるほどの記憶力や観察力がある。&lt;br&gt;
+トイ・ストーリーのキャラクターの名前もこの子に教わったものだ。&lt;br&gt;
+しかし、まだまだ手がかかる。&lt;br&gt;
+トイトレが始まり家でもトイレで用を足すようになったこともあり、 出かける前や就寝前に「行く」「行かない」の押し問答を毎回している。&lt;/p&gt;</description></item><item><title>自作PC: 2023</title><link>https://mitsuboshi.github.io/blog/post/homebuilt-pc-2023/</link><pubDate>Sat, 30 Dec 2023 02:30:00 +0900</pubDate><guid>https://mitsuboshi.github.io/blog/post/homebuilt-pc-2023/</guid><description>&lt;p&gt;しばらく前に私用PCが壊れてしまい、妻のPCをスポットで借りて凌いでいたが限界を感じた。&lt;br&gt;
+唯一まとまった時間が取れる年末のこのタイミングで思い切って自作PCを組み立てた。&lt;/p&gt;</description></item><item><title>RubyのWebAssemblyを試してみた</title><link>https://mitsuboshi.github.io/blog/post/etoji/</link><pubDate>Tue, 10 Jan 2023 22:30:17 +0900</pubDate><guid>https://mitsuboshi.github.io/blog/post/etoji/</guid><description>&lt;p&gt;年始に育児の合間を縫ってRuby3.2で少しだけ遊んでみました。&lt;br&gt;
+上の子が絵本『&lt;a href="https://www.amazon.co.jp/dp/4774604097"&gt;十二支のはじまり&lt;/a&gt;』を最近読んで、干支を認識し始めて来たので、それに関連したものを簡易的に作りました。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mitsuboshi.github.io/eto/"&gt;https://mitsuboshi.github.io/eto/&lt;/a&gt;&lt;/p&gt;</description></item><item><title>2022年の振り返り</title><link>https://mitsuboshi.github.io/blog/post/looking-back-2022/</link><pubDate>Sat, 31 Dec 2022 00:20:30 +0900</pubDate><guid>https://mitsuboshi.github.io/blog/post/looking-back-2022/</guid><description>&lt;h2 id="生活"&gt;生活&lt;/h2&gt;
+&lt;p&gt;今年の9月に第二子が産まれ、家庭内がより賑やかになりました。&lt;br&gt;
+第一子と第二子が同時に泣くなど日々同時多発的にトラブルが発生します。&lt;br&gt;
+まず何から対処すべきかの初動判断は非常に難しく、日々親力を試されています。&lt;/p&gt;
+&lt;p&gt;妻か僕のどちらかが一時的にでも欠けたら家庭内が回らなくなるほど逼迫した生活で、我が家は戦場と化しています。&lt;br&gt;
+今年は家族全員(第二子産まれる前)が新型コロナウイルスに罹ったり、自分がぎっくり腰になったりと色んなアクシデントを経て、なんとか新年を迎えられそうなことにほっと胸を撫で下ろしています。&lt;/p&gt;</description></item><item><title>2020年の振り返り</title><link>https://mitsuboshi.github.io/blog/post/looking-back-2020/</link><pubDate>Thu, 31 Dec 2020 16:14:30 +0900</pubDate><guid>https://mitsuboshi.github.io/blog/post/looking-back-2020/</guid><description>&lt;h2 id="生活"&gt;生活&lt;/h2&gt;
+&lt;p&gt;第1子が誕生しました。&lt;/p&gt;
+&lt;p&gt;3月末に妻の妊娠が発覚してから11月の出産(予定日よりも2週間早い)まで気の抜けない日々が続きました。&lt;br&gt;
+子が妻のお腹の中にいる間は「問題がない」ことが目に見えてわからないというのが不安症な人間には辛かったです。&lt;br&gt;
+まあ産後は産後で子の月齢が1ヶ月を迎えるまでは慣れず、安心できずでした。&lt;/p&gt;</description></item><item><title>Isucon10予選 振り返り</title><link>https://mitsuboshi.github.io/blog/post/isucon10-qualify/</link><pubDate>Mon, 14 Sep 2020 12:32:30 +0900</pubDate><guid>https://mitsuboshi.github.io/blog/post/isucon10-qualify/</guid><description>&lt;p&gt;isucon10予選、おつかれさまでした。&lt;br&gt;
+チーム名はコーヒーフロート。ひとりぼっちの初参加です。&lt;br&gt;
+最高得点は718点で、&lt;a href="http://isucon.net/archives/55008744.html"&gt;最終得点は662点&lt;/a&gt;。&lt;/p&gt;</description></item><item><title>My First Post</title><link>https://mitsuboshi.github.io/blog/post/my-first-post/</link><pubDate>Sun, 13 Sep 2020 22:54:51 +0900</pubDate><guid>https://mitsuboshi.github.io/blog/post/my-first-post/</guid><description>&lt;p&gt;雑にブログを始めてみることにしました。&lt;br&gt;
+技術書典9で『&lt;a href="https://techbookfest.org/product/5095004003368960"&gt;Hugo で始める静的サイト構築入門&lt;del&gt;静的サイトジェネレーターで作る自作サイト&lt;/del&gt;&lt;/a&gt;』を買ったのがきっかけです。&lt;/p&gt;</description></item></channel></rss>
